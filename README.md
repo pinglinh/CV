@@ -64,10 +64,10 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
         </td>
         <td>
             <h4>Beginners' HTML/CSS Course Volunteer Instructor - CodeFirst:Girls, Level 39</h4>
-            <br><li>Assisting students learning HTML/CSS, JavaScript, JQuery, version control, Bootstrap, GitHub</li>
-            <br><li>Helping students to debug static websites using inspect tool</li>
-            <br><li>Explaining complex/technical concepts to non-technical audience</li>
-            <br><li><a href="www.codefirstgirls.org.uk/course-competition">[Final course competition projects</a></li>
+            <li>Assisting students learning HTML/CSS, JavaScript, JQuery, version control, Bootstrap, GitHub</li>
+            <li>Helping students to debug static websites using inspect tool</li>
+            <li>Explaining complex/technical concepts to non-technical audience</li>
+            <li><a href="www.codefirstgirls.org.uk/course-competition">Final course competition projects</a></li>
         </td>
     </tr>
 
