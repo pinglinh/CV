@@ -94,6 +94,8 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
 
 * Attended the [**Rails Girls London**](railsgirls.london) Workshop (Funding Circle) as a student – June 2016
 
+* Completed [**CodeFirst:Girls**](www.codefirstgirls.org.uk) **Level 2 Advanced Ruby Course** (8 weeks) which included the usage of Sinatra, Heroku, Mailgun, and Twitter API - January 2016
+
 * Regular attendee at [**codebar**](codebar.io) and [**Women Who Code**](https://www.womenwhocode.com/) – 2016
 
 * Attended a 3-day **UCL Enterprise Bootcamp** to learn the key factors of **entrepreneurship** – April 2015
