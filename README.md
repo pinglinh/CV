@@ -13,22 +13,28 @@ GitHub: pull requests - check out my guide I have written on my blog
 Spoken languages | Fluent in **English** and **Vietnamese** (Native speaker)
 
 ### Work Experience
+<table>
+    <tr>
+        <td>
+            2016 - Present
+        </td>
+        <td>Beginners' HTML/CSS Course Volunteer Instructor - CodeFirst:Girls, Level 39
+        <br>* Assisting students learning HTML/CSS, JavaScript, JQuery, version control, Bootstrap, GitHub
+        <br>* Helping students to debug static websites using inspect tool
+        <br>Explaining complex/technical concepts to non-technical audience
+        <br>* [Final course competition projects](www.codefirstgirls.org.uk/course-competition)
+        </td>
+    </tr>
 
-2016 - Present | Beginners' HTML/CSS Course Volunteer Instructor - CodeFirst:Girls, Level 39
-* Assisting students learning HTML/CSS, JavaScript, JQuery, version control, Bootstrap, GitHub
-
-* Helping students to debug static websites using inspect tool
-
-* Explaining complex/technical concepts to non-technical audience
-
-* [Final course competition projects](www.codefirstgirls.org.uk/course-competition)
-
-2016 - Present | Student Support Advisor - University of East London (UEL)
-* Efficient in SITS:Vision system to check student records
-
-* Use of ProRetention (CRM) to track and reply to students’ queries
-
-* Delivering ‘above and beyond’ student’s services
-
-* Dealing with students face to face and via the telephone
-
+    <tr>
+        <td>
+            2016 - Present
+        </td>
+        <td>
+            Student Support Advisor - University of East London (UEL)
+            <br>* Efficient in SITS:Vision system to check student records
+            <br>* Use of ProRetention (CRM) to track and reply to students’ queries
+            <br>* Dealing with students face to face and via the telephone
+        </td>
+    </tr>
+</table>
