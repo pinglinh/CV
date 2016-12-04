@@ -77,9 +77,9 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
         </td>
         <td>
             <h4>Student Support Advisor - University of East London (UEL)</h4>
-            <br><li>Efficient in SITS:Vision system to check student records</li>
-            <br><li>Use of ProRetention (CRM) to track and reply to students’ queries</li>
-            <br><li>Dealing with students face to face and via the telephone</li>
+            <li>Efficient in SITS:Vision system to check student records</li>
+            <li>Use of ProRetention (CRM) to track and reply to students’ queries</li>
+            <li>Diagnose student needs, provide advice and explanation, refer students to the full range of specialist services where required and to agreed protocols</li>
         </td>
     </tr>
 </table>
