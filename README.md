@@ -64,10 +64,10 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
         </td>
         <td>
             <h4>Beginners' HTML/CSS Course Volunteer Instructor - CodeFirst:Girls, Level 39</h4>
-            <br>* Assisting students learning HTML/CSS, JavaScript, JQuery, version control, Bootstrap, GitHub
-            <br>* Helping students to debug static websites using inspect tool
-            <br>* Explaining complex/technical concepts to non-technical audience
-            <br>* <a href="www.codefirstgirls.org.uk/course-competition">[Final course competition projects</a>
+            <br><li>Assisting students learning HTML/CSS, JavaScript, JQuery, version control, Bootstrap, GitHub</li>
+            <br><li>Helping students to debug static websites using inspect tool</li>
+            <br><li>Explaining complex/technical concepts to non-technical audience</li>
+            <br><li><a href="www.codefirstgirls.org.uk/course-competition">[Final course competition projects</a></li>
         </td>
     </tr>
 
@@ -77,9 +77,9 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
         </td>
         <td>
             <h4>Student Support Advisor - University of East London (UEL)</h4>
-            <br>* Efficient in SITS:Vision system to check student records
-            <br>* Use of ProRetention (CRM) to track and reply to students’ queries
-            <br>* Dealing with students face to face and via the telephone
+            <br><li>Efficient in SITS:Vision system to check student records</li>
+            <br><li>Use of ProRetention (CRM) to track and reply to students’ queries</li>
+            <br><li>Dealing with students face to face and via the telephone</li>
         </td>
     </tr>
 </table>
