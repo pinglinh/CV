@@ -67,7 +67,7 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
             <br>* Assisting students learning HTML/CSS, JavaScript, JQuery, version control, Bootstrap, GitHub
             <br>* Helping students to debug static websites using inspect tool
             <br>* Explaining complex/technical concepts to non-technical audience
-            <br>* [Final course competition projects](www.codefirstgirls.org.uk/course-competition)
+            <br>* <a href="www.codefirstgirls.org.uk/course-competition">[Final course competition projects</a>
         </td>
     </tr>
 
@@ -88,7 +88,7 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
 
 * Attended [**24 Pull Request**](https://24pullrequests.com/) and submitted 4 pull requests on the day - December 2016
 
-* Attended [GDG Hackathon](http://www.gdg-london.com/) and worked on **Google and Twitter API** in a team – November 2016
+* Attended [**GDG Hackathon**](http://www.gdg-london.com/) and worked on **Google and Twitter API** in a team – November 2016
 
 * Spoken at **uncodebar** on Ruby in-browser games – October 2016
 
@@ -102,7 +102,7 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
 
 ## Education
 
-#### University of College London (2014 - 2015)
+### University of College London (2014 - 2015)
 ***MSc Biochemical Engineering***, awarded **Postgraduate Merit**
 
 **Business Enterprise Project:**
@@ -111,6 +111,8 @@ Directed a team of 5 to complete a business plan and proposed the commercialisat
 **Design Project:**
 Unified a team of 5 to design and plan a manufacturing facility for the production of a vaccine. Produced a comprehensive economic appraisal; identified risks within the project and structured mitigation strategies. 
 
-#### University of East London (2011 - 2014)
+### University of East London (2011 - 2014)
 ***BSc Medical Biotechnology***, awarded ***First Class Honours***
 
+## Interests
+* Photography (night time cityscape)
