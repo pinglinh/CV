@@ -6,11 +6,55 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
 
 ### Skills
 
-Programming languages | **HTML, CSS, JavaScript, Ruby**
-Technical skills | Test-Driven Development (TDD), pair-programming, responsive design, version control
-Git: branching, merging, fixing merge conflicts
-GitHub: pull requests - check out my guide I have written on my blog
-Spoken languages | Fluent in **English** and **Vietnamese** (Native speaker)
+<table>
+    <tr>
+        <td>
+            Programming languages
+        </td>
+        <td>
+            Ruby
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Technical skills
+        </td>
+        <td>
+            Test-Driven Development (TDD)
+            <br>Pair-Programming
+            <br>Responsive Design
+            <br>Version Control - Git
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Test Frameworks
+        </td>
+        <td>
+            RSpec
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Front-End Skills
+        </td>
+        <td>
+            HTML5
+            <br>CSS3
+            <br>jQuery
+            <br>SASS
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Spoken Languages
+        </td>
+        <td>
+        Fluent in English and Vietnamese
+        <br>Basic Japanese
+        </td>
+    </tr>
+</table>
 
 ### Work Experience
 <table>
@@ -21,7 +65,7 @@ Spoken languages | Fluent in **English** and **Vietnamese** (Native speaker)
         <td>Beginners' HTML/CSS Course Volunteer Instructor - CodeFirst:Girls, Level 39
         <br>* Assisting students learning HTML/CSS, JavaScript, JQuery, version control, Bootstrap, GitHub
         <br>* Helping students to debug static websites using inspect tool
-        <br>Explaining complex/technical concepts to non-technical audience
+        <br>* Explaining complex/technical concepts to non-technical audience
         <br>* [Final course competition projects](www.codefirstgirls.org.uk/course-competition)
         </td>
     </tr>
