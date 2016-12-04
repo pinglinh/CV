@@ -4,12 +4,12 @@ I am a self-taught software engineer still early in my career. My first introduc
 
 Outside of learning to code I have also enjoyed sharing my knowledge with others, recently have becoming an instructor at CodeFirst:Girls on their beginner HTML/CSS course. I have found sharing my knowledge with others to be very rewarding.
 
-### Skills
+## Skills
 
 <table>
     <tr>
         <td>
-            Programming languages
+            <h4>Programming languages</h4>
         </td>
         <td>
             Ruby
@@ -17,7 +17,7 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
     </tr>
     <tr>
         <td>
-        Technical skills
+            <h4>Technical skills</h4>
         </td>
         <td>
             Test-Driven Development (TDD)
@@ -28,7 +28,7 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
     </tr>
     <tr>
         <td>
-        Test Frameworks
+            <h4>Test Frameworks</h4>
         </td>
         <td>
             RSpec
@@ -36,7 +36,7 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
     </tr>
     <tr>
         <td>
-        Front-End Skills
+            <h4>Front-End Skills</h4>
         </td>
         <td>
             HTML5
@@ -47,7 +47,7 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
     </tr>
     <tr>
         <td>
-            Spoken Languages
+            <h4>Spoken Languages</h4>
         </td>
         <td>
         Fluent in English and Vietnamese
@@ -56,17 +56,18 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
     </tr>
 </table>
 
-### Work Experience
+## Work Experience
 <table>
     <tr>
         <td>
             2016 - Present
         </td>
-        <td>Beginners' HTML/CSS Course Volunteer Instructor - CodeFirst:Girls, Level 39
-        <br>* Assisting students learning HTML/CSS, JavaScript, JQuery, version control, Bootstrap, GitHub
-        <br>* Helping students to debug static websites using inspect tool
-        <br>* Explaining complex/technical concepts to non-technical audience
-        <br>* [Final course competition projects](www.codefirstgirls.org.uk/course-competition)
+        <td>
+            <h4>Beginners' HTML/CSS Course Volunteer Instructor - CodeFirst:Girls, Level 39</h4>
+            <br>* Assisting students learning HTML/CSS, JavaScript, JQuery, version control, Bootstrap, GitHub
+            <br>* Helping students to debug static websites using inspect tool
+            <br>* Explaining complex/technical concepts to non-technical audience
+            <br>* [Final course competition projects](www.codefirstgirls.org.uk/course-competition)
         </td>
     </tr>
 
@@ -75,10 +76,41 @@ Outside of learning to code I have also enjoyed sharing my knowledge with others
             2016 - Present
         </td>
         <td>
-            Student Support Advisor - University of East London (UEL)
+            <h4>Student Support Advisor - University of East London (UEL)</h4>
             <br>* Efficient in SITS:Vision system to check student records
             <br>* Use of ProRetention (CRM) to track and reply to students’ queries
             <br>* Dealing with students face to face and via the telephone
         </td>
     </tr>
 </table>
+
+## Activities
+
+* Attended [**24 Pull Request**](https://24pullrequests.com/) and submitted 4 pull requests on the day - December 2016
+
+* Attended [GDG Hackathon](http://www.gdg-london.com/) and worked on **Google and Twitter API** in a team – November 2016
+
+* Spoken at **uncodebar** on Ruby in-browser games – October 2016
+
+* Attended the [**Rails Girls London**](railsgirls.london) Workshop (Funding Circle) as a student – June 2016
+
+* Regular attendee at [**codebar**](codebar.io) and [**Women Who Code**](https://www.womenwhocode.com/) – 2016
+
+* Attended a 3-day **UCL Enterprise Bootcamp** to learn the key factors of **entrepreneurship** – April 2015
+
+* **Mentoring Scheme** (UEL) at Barclays and Société Générale to developing employability skills – 2014
+
+## Education
+
+#### University of College London (2014 - 2015)
+***MSc Biochemical Engineering***, awarded **Postgraduate Merit**
+
+**Business Enterprise Project:**
+Directed a team of 5 to complete a business plan and proposed the commercialisation of cancer drug. Forecasted financial projections; estimated the capital investment and variable operating costs.
+
+**Design Project:**
+Unified a team of 5 to design and plan a manufacturing facility for the production of a vaccine. Produced a comprehensive economic appraisal; identified risks within the project and structured mitigation strategies. 
+
+#### University of East London (2011 - 2014)
+***BSc Medical Biotechnology***, awarded ***First Class Honours***
+
