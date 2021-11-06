@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: |
+      - run: |-
           git commit --allow-empty -m "Empty commit"
           git push
