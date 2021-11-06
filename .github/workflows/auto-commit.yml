@@ -1,7 +1,7 @@
 name: auto-commit
 on:
   schedule:
-  - cron: "*/5 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   auto-commit:
@@ -12,7 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |-
+          git config commit.gpgsign true
           git config user.name "$USERNAME"
           git config user.email "$EMAIL"
-          git commit --allow-empty -m "Updated commit"
+          git commit -S --allow-empty -m "Updated commit"
           git push
