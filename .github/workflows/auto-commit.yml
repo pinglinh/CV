@@ -14,5 +14,5 @@ jobs:
       - run: |-
           git config user.email "$USERNAME"
           git config user.name "$EMAIL"
-          git commit --allow-empty -m "Empty commit"
+          git commit --allow-empty -m "Updated commit"
           git push
