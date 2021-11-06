@@ -1,15 +1,18 @@
 name: auto-commit
 on:
   schedule:
-  - cron: "* 9 * * *"
+  - cron: "*/5 * * *"
 
 jobs:
   auto-commit:
     runs-on: ubuntu-latest
+    env:
+      USERNAME: ${{ secrets.USERNAME }}
+      EMAIL: ${{ secrets.EMAIL }}
     steps:
       - uses: actions/checkout@v2
       - run: |-
-          git config user.email "github-actions"
-          git config user.name "github-actions@github.com"
+          git config user.email "$USERNAME"
+          git config user.name "$EMAIL"
           git commit --allow-empty -m "Empty commit"
           git push
