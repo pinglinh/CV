@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |-
-          git config user.email "$USERNAME"
-          git config user.name "$EMAIL"
+          git config user.name "$USERNAME"
+          git config user.email "$EMAIL"
           git commit --allow-empty -m "Updated commit"
           git push
